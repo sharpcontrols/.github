@@ -7,7 +7,7 @@ Many of those libraries are also a copy from the [live-controls](https://www.git
 ### Payment
 Partially ported
 ### AutoAddress
-TODO
+Partially ported
 ### Storage
 TODO
 ### Permissions
