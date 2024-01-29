@@ -5,7 +5,7 @@ Many of those libraries are also a copy from the [live-controls](https://www.git
 
 ## Libraries
 ### Payment
-TODO
+Partially ported
 ### AutoAddress
 TODO
 ### Storage
@@ -14,7 +14,7 @@ TODO
 TODO
 ### Groups
 TODO
-### APIConnect
-TODO
+### APIHandler
+Partially included
 ### Utils
 Partially ported
