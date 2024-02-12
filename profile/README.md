@@ -5,16 +5,18 @@ Many of those libraries are also a copy from the [live-controls](https://www.git
 
 ## Libraries
 ### Payment
-Partially ported
+Easily add checkouts to your application. At the moment only works with PagSeguros Checkout.
+
 ### AutoAddress
-Partially ported
+Get an address by entering areacode. Only works with brazilian CEP at the moment
+
 ### Storage
 TODO
-### Permissions
-TODO
-### Groups
-TODO
+### SimpleAuth
+Simple authentication system based on a REST API. Can also be used with your own integration.
+
 ### APIHandler
-Partially included
+Handles calls to REST APIs
+
 ### Utils
-Partially ported
+Different utility classes for different usecases.
