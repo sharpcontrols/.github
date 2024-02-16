@@ -10,8 +10,9 @@ Easily add checkouts to your application. At the moment only works with PagSegur
 ### AutoAddress
 Get an address by entering areacode. Only works with brazilian CEP at the moment
 
-### Storage
-TODO
+### Validation
+Validation for strings, numbers, dates and more
+
 ### SimpleAuth
 Simple authentication system based on a REST API. Can also be used with your own integration.
 
